@@ -1,0 +1,98 @@
+index of vector: 0
+Time taken to calculate nearest neighbors: 591 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 502 milliseconds
+
+index of vector: 0
+Time taken to calculate nearest neighbors: 818 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 382 milliseconds
+
+index of vector: 0
+Time taken to calculate nearest neighbors: 706 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 453 milliseconds
+
+index of vector: 0
+Time taken to calculate nearest neighbors: 5981 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 2250 milliseconds
+
+index of vector: 0
+Time taken to calculate nearest neighbors: 6 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 4 milliseconds
+
+index of vector: 0
+Time taken to calculate nearest neighbors: 3 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 3 milliseconds
+
+index of vector: 0
+Time taken to calculate nearest neighbors: 3 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 3 milliseconds
+
+index of vector: 0
+Time taken to calculate nearest neighbors: 7 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 5 milliseconds
+
+index of vector: 0
+Time taken to calculate nearest neighbors: 5 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 5 milliseconds
+
+index of vector: 0
+index of vector: 0
+Time taken to calculate nearest neighbors: 4 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 2 milliseconds
+
+index of vector: 0
+Time taken to calculate nearest neighbors: 2 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 2 milliseconds
+
+index of vector: 0
+index of vector: 0
+Time taken to calculate nearest neighbors: 2 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 1 milliseconds
+
+index of vector: 0
+Time taken to calculate nearest neighbors: 1026 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 471 milliseconds
+
+index of vector: 0
+Time taken to calculate nearest neighbors: 1248 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 451 milliseconds
+
+index of vector: 0
+Time taken to calculate nearest neighbors: 2 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 1 milliseconds
+
+index of vector: 0
+Time taken to calculate nearest neighbors: 1458 milliseconds
+
+index of vector: 1
+Time taken to calculate nearest neighbors: 406 milliseconds
+
